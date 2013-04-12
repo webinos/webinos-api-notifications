@@ -1,5 +1,5 @@
 {
-  "name": "zonenotification",
+  "name": "webinos-api-notifications",
   "publishConfig": {
     "tag": "alpha" 
   },
